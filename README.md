@@ -44,3 +44,7 @@ foreach($feed as $post){
 
 }
 ```
+
+## Acknowledgements 
+
+Uses [Instagram PHP Scraper](https://github.com/postaddictme/instagram-php-scraper)
